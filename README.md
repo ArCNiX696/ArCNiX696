@@ -1,46 +1,32 @@
-<!-- Futuristic Header with Animation -->
-<h1 align="center" style="font-family: 'Courier New', monospace; color: #00ff99;">
-  Welcome to My GitHub Profile
-</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Jose Gutierrez</h1>
+<h3 align="center">Pursuing a Master's in Artificial Intelligence</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Cyberpunk-blue?style=for-the-badge&logo=ai" alt="AI Cyberpunk Badge">
+<a href="mailto:arcnix.oficial@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
-<!-- Personal Information -->
-<p align="center" style="font-family: 'Courier New', monospace; color: #00ff99;">
-  I am currently pursuing a Master's in Artificial Intelligence. <br>
-  Specializing in deep learning models for stock market prediction and optimization models. <br>
-  Additionally skilled in computer vision.
-</p>
-
-<!-- Futuristic Image with Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/HhTXt43pk1I1W/giphy.gif" alt="Futuristic Animation" width="400" height="200">
+  <em>
+    I am currently pursuing a Master's in Artificial Intelligence. <br>
+    Specializing in deep learning models for stock market prediction and optimization models. <br>
+    Additionally skilled in computer vision. 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> 
 </p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<!-- Connect with Me Section -->
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #00ff99;">Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-</p>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-<!-- Styles for Futuristic Look -->
-<style>
-  body {
-    background-color: #121212;
-    color: #00ff99;
-    font-family: 'Courier New', monospace;
-  }
-  h1 {
-    animation: glow 1s ease-in-out infinite alternate;
-  }
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 10px #00ff99, 0 0 20px #00ff99, 0 0 30px #00ff99, 0 0 40px #00ff99, 0 0 50px #00ff99, 0 0 60px #00ff99, 0 0 70px #00ff99;
-    }
-    to {
-      text-shadow: 0 0 20px #00ff99, 0 0 30px #00ff99, 0 0 40px #00ff99, 0 0 50px #00ff99, 0 0 60px #00ff99, 0 0 70px #00ff99, 0 0 80px #00ff99;
-    }
-  }
-</style>
+✔ I am currently pursuing a Master's in Artificial Intelligence. <br>
+✔ Specializing in deep learning models for stock market prediction and optimization models. <br>
+✔ Additionally skilled in computer vision. <br>
+✔ Fun fact: I always try to learn something new and then sleep till it stores in the brain 🧠😎<br><br><br><br>
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+
