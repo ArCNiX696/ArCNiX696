@@ -5,8 +5,8 @@
 
 <p align="center">
   <em>
-    I Just obtained a Master’s degree in Computer Science recently, specializing in Artificial Intelligence, from National Cheng Kung University (NCKU)
-    I have a Bachelor’s degree in Electrical Engineering 
+    I Just obtained a Master’s degree in Computer Science recently, specializing in Artificial Intelligence, from National Cheng Kung University (NCKU).
+    I also hold a Bachelor’s degree in Electrical Engineering.
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br>
     My native language is Spanish, and I can also speak English and Chinese fluently.
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> <br>
@@ -29,6 +29,7 @@
 
 <h2>👨‍💻 Programming Languages<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 
  
  ### 🧰 Frameworks and Libraries
@@ -58,10 +59,10 @@
 <a href=# > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'> </a>
 <p>
 
-<h2> in the process of learning these skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+### 🖥️ Operating Systems & Environments
+<p>
 <a href=#> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
+</p>
 
 ----
 
@@ -71,5 +72,3 @@
 </p>
 
 -----
-
-
