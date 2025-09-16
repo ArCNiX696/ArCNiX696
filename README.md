@@ -6,10 +6,12 @@
 <p align="center">
   <em>
     I Just obtained a Master’s degree in Computer Science recently, specializing in Artificial Intelligence, from National Cheng Kung University (NCKU)
+    I have a Bachelor’s degree in Electrical Engineering 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br>
-    My native language is Spanish, and I can also speak English and Chinese.
+    My native language is Spanish, and I can also speak English and Chinese fluently.
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> <br>
-    I am here to contribute with my work, and I hope it can serve as a guide for your projects or ideas.
+    My projects are mainly based on AI models applied to finance, time series analysis, stock market prediction, computer vision, and optimization techniques.
+    I share them with the hope that they may be useful for your projects or ideas.
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> <br>  
   </em>
   <br>
