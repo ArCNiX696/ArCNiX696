@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    I Just obtained a Master’s degree in Computer Science recently, specializing in Artificial Intelligence, from National Cheng Kung University (NCKU).
+    Master’s degree in Computer Science, specializing in Artificial Intelligence, from National Cheng Kung University (NCKU).
     I also hold a Bachelor’s degree in Electrical Engineering.
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br>
     My native language is Spanish, and I can also speak English and Chinese fluently.
